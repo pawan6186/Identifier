@@ -11,8 +11,8 @@
 (https://medium.com/p/fb8309ae8380)
 
 <p align="center">
-  <img src="https://ibb.co/i10hJ8" width="250" alt=”animated” />
-  <img src="https://ibb.co/epXjWT" width="250" alt=”animated” />
+  <img src="https://image.ibb.co/g8Q4WT/demo_one.gif" alt="demo_one" border="0">
+<img src="https://image.ibb.co/dsMBBT/demo_two.gif" alt="demo_two" border="0">
 <br>
 <br>
 
