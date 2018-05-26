@@ -1,16 +1,14 @@
-# Android TensorFlow Lite Machine Learning Example
+# Indetifier a Machine Learning Example using TensorFlowLite
 
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/pawan6186/Identifier/blob/master/LICENSE)
 
-##  About Android TensorFlow Lite Machine Learning Example
+##  About Indetifier Example
 * This is an example project for integrating [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/) into Android application
 * This project include an example for object detection for an image taken from camera using TensorFlow Lite library.
 
 # [Read this article. It describes everything about TensorFlow Lite for Android.]
-(https://medium.com/p/fb8309ae8380/edit)
+(https://medium.com/p/fb8309ae8380)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
