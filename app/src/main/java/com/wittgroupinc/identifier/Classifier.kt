@@ -3,7 +3,7 @@ package com.wittgroupinc.identifier
 import android.graphics.Bitmap
 
 /**
- * Created by amitshekhar on 17/03/18.
+ * Created by Pawan Gupta on 26/05/18
  */
 
 interface Classifier {

@@ -30,6 +30,9 @@ import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.Toast
 
+/**
+ * Created by Pawan Gupta on 26/05/18
+ */
 
 class MainActivity : AppCompatActivity() {
 
