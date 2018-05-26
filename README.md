@@ -11,11 +11,8 @@
 (https://medium.com/p/fb8309ae8380)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/pen_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/wallet_example.png" width="250">
-</p>
-<img src=https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/sample_combined.png >
+  <img src="https://ibb.co/i10hJ8" width="250" />
+  <img src="https://ibb.co/epXjWT" width="250" />
 <br>
 <br>
 
